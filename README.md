@@ -1,4 +1,5 @@
 #Huffman Algorithm Implementation in Java
+
 This program implements the Huffman algorithm, a compression technique that assigns shorter codes to frequently occurring characters in a message and longer codes to less frequent characters. The Huffman algorithm uses a binary tree to represent the codes, where each leaf node corresponds to a character and each internal node corresponds to the sum of the frequencies of its child nodes.
 
 The program takes as input a text file, a text written by the user or random text and outputs the text as binary + the tree using the Huffman codes. It uses the following steps:

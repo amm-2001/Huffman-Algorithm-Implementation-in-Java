@@ -51,7 +51,7 @@ public class HuffMan_Main extends JFrame {
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
 		
-		JLabel lblNewLabel = new JLabel("Huffman encoding program ");
+		JLabel lblNewLabel = new JLabel("Huffman Encoding Program ");
 		lblNewLabel.setFont(new Font("Tahoma", Font.PLAIN, 46));
 		lblNewLabel.setBounds(254, 11, 457, 98);
 		contentPane.add(lblNewLabel);
